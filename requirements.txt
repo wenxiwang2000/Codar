@@ -1,0 +1,24 @@
+# requirements.txt
+
+## Core requirements
+pymupdf
+pillow
+sentence-transformers
+numpy
+scikit-learn
+
+## Optional: PNG / JPG / scanned PDF OCR with Tesseract
+# Install Tesseract.exe separately, then uncomment:
+# pytesseract
+
+## Optional: PDF/image OCR helper if you later use pdf2image instead of PyMuPDF rendering
+# pdf2image
+
+## Optional: GPU acceleration for sentence-transformers
+# Usually installed automatically with sentence-transformers.
+# For NVIDIA GPU, install the correct PyTorch CUDA build from:
+# https://pytorch.org/get-started/locally/
+# Example only, check your CUDA version first:
+# torch
+# torchvision
+# torchaudio
