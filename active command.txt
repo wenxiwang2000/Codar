@@ -1,0 +1,3 @@
+python bigboss.py --folder "C:\Users\your folder name" --chunk-size 500 --embed
+
+python check.py --query "your request sentence here" --top-k 5
