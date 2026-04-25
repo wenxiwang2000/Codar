@@ -1,4 +1,4 @@
-# 🧠 BigBoss Memory Search System
+# 🧠 PiP Install BigBoss (Memory Search System)
 
 A lightweight local AI memory pipeline that turns folders of code, text, PDFs, and images into searchable knowledge.
 
