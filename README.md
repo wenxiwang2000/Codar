@@ -136,6 +136,6 @@ They are memory waiting to become searchable.
 
 # 📜 License
 
-Open-source friendly. Customize freely.
+Open-source
 
 ---
